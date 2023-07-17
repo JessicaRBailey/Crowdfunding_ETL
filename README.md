@@ -17,7 +17,7 @@ In this repo you will find our updated and clean crowfunding data. We accomplish
   - 1 x ERD text to use in QuickDBD (crowdfunding_ERD_text.docx)
 - **FOLDER:** Resources
   - 2 x .xlsx data files for import (contacts.xlsx | crowdfunding.xlsx)
-  - 4 x .csv data files, code exports (category.csv | subcategory.csv | campaign.csv | contacts.csv)
+  - 5 x .csv data files, code exports (category.csv | subcategory.csv | campaign.csv | contacts.csv | contacts_option2.csv)
 - 1 x README file
 
 -------------------
